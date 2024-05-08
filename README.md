@@ -9,3 +9,6 @@ This is my first GitHub repository.
 >>>>>>> 41e806051661ddd023dd40623b122d2514f58a26
 >>>>>>>
 It now includes steps for GitHub.
+
+This change has been made in order to demonstrate "pull" command.
+
