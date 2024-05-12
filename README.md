@@ -12,3 +12,5 @@ It now includes steps for GitHub.
 
 This change has been made in order to demonstrate "pull" command.
 
+This is a newline to demonstrate branching.
+
